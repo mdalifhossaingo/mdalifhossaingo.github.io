@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mdalifhossaingo.github.io/mdalifhossaingo/sitemap.xml
+Sitemap: https://mdalifhossaingo.github.io/sitemap.xml
